@@ -6,7 +6,7 @@ This project demonstrates building a data engineering pipeline for the Tokyo 202
 
 ### Architecture
 
-![Project Architecture](https://raw.githubusercontent.com/jayast29/olympics-data-analytics/blob/main/project_architecture.jpg)
+![Project Architecture](https://raw.githubusercontent.com/jayast29/olympics-data-analytics/main/project_architecture.jpg)
 
 ### Languages Used
 
